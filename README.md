@@ -1,4 +1,4 @@
-### Hi there 👋
+Estudiante de Tecnológico de Culiacán
 
 <!--
 **EdTorres2217/EdTorres2217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
